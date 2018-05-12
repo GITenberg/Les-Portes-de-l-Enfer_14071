@@ -1,0 +1,30 @@
+_repo: Les-Portes-de-l-Enfer_14071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Level, Maurice
+    birthdate: 1875
+    deathdate: 1926
+    gutenberg_agent_id: '5357'
+    url: http://www.gutenberg.org/2009/agents/5357
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Maurice_Level
+    - http://en.wikipedia.org/wiki/Maurice_Level
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14071'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Horror tales, French'
+title: Les Portes de l'Enfer
+url: http://www.gutenberg.org/ebooks/14071
